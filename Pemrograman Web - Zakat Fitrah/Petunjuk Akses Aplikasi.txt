@@ -1,0 +1,24 @@
+**** Aplikasi ini dibuat untuk memenuhi tugas Pemrograman Web ****
+		Virra Retnowati A'izzah- 207006020
+
+# LOGIN INFO
+username = pweb
+password = pweb
+
+# Buka laman http://localhost/zakatfitrah (index.php)
+# File database berada pada folder database
+
+# Tentang Aplikasi
+Aplikasi 'YukZakat | Admin' ini diperuntukan untuk admin dengan tujuan mempermudah dalam mengelola database muzakki dan mustahik zakat
+Tidak diberi fitur registrasi karenaa aplikasi ini hanya untuk pribadi/instansi dan untuk mengakses aplikasi ini harus login terlebih dahulu.
+
+# Penambahan Fitur (II)
+- Fitur bayar pada laman Master Data Muzakki (ketika klik bayar maka data akan berpindah ke database bayarzakat 
+  dan ditampilkan di laman Pengumpulan Zakat Fitrah
+- Laman Pengumpulan Zakat Fitrah berisi data muzakki yang telah melakukan pemabayaran zakat fitrah
+- Laman Distribu (Warga dan Mustahik Lainnya) berisi data-data mustahik 
+
+# Penambahan Fitur (III)
+- Fitur Laporan Pembayaran berisi laporan jumlah data dari pembayaran zakat fitrah
+- Fitur Laporan Distribusi Zakat Warga dan Mustahik Lainnya berisi jumlah data dari distribusi zakat mustahik
+- Setiap laporan dapat diextract kedalam file pdf dengan menggunakan mpdf
