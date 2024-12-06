@@ -1,0 +1,20 @@
+table {
+    font-family: sans-serif;
+  }
+  
+  td, th {
+    padding: 5px;
+    text-align: center;
+  }
+  
+  
+  h2, h3, h6, span {
+    text-align: center;
+  }
+  
+  .div {
+    width: 300px;
+    height: 100px;
+    box-sizing: border-box;
+  }
+  
