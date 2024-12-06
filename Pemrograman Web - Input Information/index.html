@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!-- =====BOX ICONS===== -->
+        <link href='https://cdn.jsdelivr.net/npm/boxicons@2.0.5/css/boxicons.min.css' rel='stylesheet'>
+
+        <!-- ===== CSS ===== -->
+        <link rel="stylesheet" href="assets/css/styles.css">
+
+        <title>Tugas1 PWeb - Virra 020</title>
+    </head>
+    <body>
+        <!--===== HEADER =====-->
+        <header class="l-header">
+            <nav class="nav bd-grid">
+                <div>
+                    <a href="#" class="nav__logo">Tugas1 PWeb</a>
+                </div>
+                
+                <div class="nav__toggle" id="nav-toggle">
+                    <i class='bx bx-menu'></i>
+                </div>
+
+                <div class="nav__menu" id="nav-menu">
+                    <div class="nav__close" id="nav-close">
+                        <i class='bx bx-x'></i>
+                    </div>
+                </div>
+            </nav>
+        </header>
+
+        <main class="l-main">
+            <!--===== HOME =====-->
+            <section class="home" id="home">
+                <div class="home__container bd-grid">
+                    <div class="home__img">
+                        <img src="assets/img/img7.svg" alt="" data-speed="-2" class="move">
+                    </div>
+
+                    <div class="home__data">
+                        <h1 class="home__title">Input<br> Information</h1>
+                        <p class="home__description">Virra Retnowati A'izzah <br>207006020</p>
+                        <a href="#" class="home__button" onclick="mssg()">Intructions</a>
+                        <a href="#" class="home__button" onclick="inputdata()">Create data</a><br><br>
+                        <h1 class="home__title1">You Can See The Result Here</h1>
+                        <a class="home__description">NPM     :</a>
+                        <a id="npm"></a>
+                        <a class="home__description"><br>Name     :</a>
+                        <a id="name"></a>
+                        <a class="home__description"><br> Address     :</a>
+                        <a id="address"></a>
+                    </div>
+
+                </div>
+            </section>
+        </main>
+
+        <!--===== GSAP =====-->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/gsap.min.js"></script>
+
+        <!--===== MAIN JS =====-->
+        <script src="assets/js/main.js"></script>
+    </body>
+</html>
