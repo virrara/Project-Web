@@ -1,0 +1,138 @@
+[12-May-2021 06:59:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rajawal8/public_html/main/function.php on line 2
+[12-May-2021 06:59:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rajawal8/public_html/main/function.php on line 2
+[12-May-2021 06:59:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rajawal8/public_html/main/function.php on line 2
+[12-May-2021 07:00:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rajawal8/public_html/main/function.php on line 2
+[12-May-2021 07:00:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rajawal8/public_html/main/function.php on line 167
+[12-May-2021 07:00:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/rajawal8/public_html/main/function.php on line 169
+[12-May-2021 07:00:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rajawal8/public_html/main/function.php on line 174
+[12-May-2021 07:00:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/rajawal8/public_html/main/function.php on line 176
+[12-May-2021 07:00:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rajawal8/public_html/main/function.php on line 189
+[12-May-2021 07:00:00 UTC] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, bool given in /home/rajawal8/public_html/main/function.php on line 191
+[12-May-2021 07:00:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rajawal8/public_html/main/function.php on line 167
+[12-May-2021 07:00:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/rajawal8/public_html/main/function.php on line 169
+[12-May-2021 07:00:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rajawal8/public_html/main/function.php on line 174
+[12-May-2021 07:00:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/rajawal8/public_html/main/function.php on line 176
+[12-May-2021 07:00:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rajawal8/public_html/main/function.php on line 189
+[12-May-2021 07:00:00 UTC] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, bool given in /home/rajawal8/public_html/main/function.php on line 191
+[12-May-2021 07:02:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'rajawal8_user'@'localhost' (using password: YES) in /home/rajawal8/public_html/main/function.php on line 2
+[12-May-2021 07:02:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'rajawal8_user'@'localhost' (using password: YES) in /home/rajawal8/public_html/main/function.php on line 2
+[12-May-2021 07:02:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rajawal8/public_html/main/function.php on line 167
+[12-May-2021 07:02:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/rajawal8/public_html/main/function.php on line 169
+[12-May-2021 07:02:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rajawal8/public_html/main/function.php on line 174
+[12-May-2021 07:02:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/rajawal8/public_html/main/function.php on line 176
+[12-May-2021 07:02:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rajawal8/public_html/main/function.php on line 189
+[12-May-2021 07:02:39 UTC] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, bool given in /home/rajawal8/public_html/main/function.php on line 191
+[12-May-2021 07:02:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rajawal8/public_html/main/function.php on line 167
+[12-May-2021 07:02:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/rajawal8/public_html/main/function.php on line 169
+[12-May-2021 07:02:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rajawal8/public_html/main/function.php on line 174
+[12-May-2021 07:02:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/rajawal8/public_html/main/function.php on line 176
+[12-May-2021 07:02:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rajawal8/public_html/main/function.php on line 189
+[12-May-2021 07:02:39 UTC] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, bool given in /home/rajawal8/public_html/main/function.php on line 191
+[12-May-2021 07:18:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'rajawal8'@'localhost' (using password: NO) in /home/rajawal8/public_html/main/function.php on line 2
+[12-May-2021 07:18:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'rajawal8'@'localhost' (using password: NO) in /home/rajawal8/public_html/main/function.php on line 2
+[12-May-2021 07:18:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rajawal8/public_html/main/function.php on line 167
+[12-May-2021 07:18:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/rajawal8/public_html/main/function.php on line 169
+[12-May-2021 07:18:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rajawal8/public_html/main/function.php on line 174
+[12-May-2021 07:18:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/rajawal8/public_html/main/function.php on line 176
+[12-May-2021 07:18:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rajawal8/public_html/main/function.php on line 189
+[12-May-2021 07:18:56 UTC] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, bool given in /home/rajawal8/public_html/main/function.php on line 191
+[12-May-2021 07:18:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rajawal8/public_html/main/function.php on line 167
+[12-May-2021 07:18:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/rajawal8/public_html/main/function.php on line 169
+[12-May-2021 07:18:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rajawal8/public_html/main/function.php on line 174
+[12-May-2021 07:18:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/rajawal8/public_html/main/function.php on line 176
+[12-May-2021 07:18:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rajawal8/public_html/main/function.php on line 189
+[12-May-2021 07:18:56 UTC] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, bool given in /home/rajawal8/public_html/main/function.php on line 191
+[12-May-2021 07:21:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rajawal8/public_html/main/function.php on line 2
+[12-May-2021 07:21:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rajawal8/public_html/main/function.php on line 2
+[12-May-2021 07:21:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rajawal8/public_html/main/function.php on line 167
+[12-May-2021 07:21:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/rajawal8/public_html/main/function.php on line 169
+[12-May-2021 07:21:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rajawal8/public_html/main/function.php on line 174
+[12-May-2021 07:21:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/rajawal8/public_html/main/function.php on line 176
+[12-May-2021 07:21:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rajawal8/public_html/main/function.php on line 189
+[12-May-2021 07:21:34 UTC] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, bool given in /home/rajawal8/public_html/main/function.php on line 191
+[12-May-2021 07:21:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rajawal8/public_html/main/function.php on line 167
+[12-May-2021 07:21:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/rajawal8/public_html/main/function.php on line 169
+[12-May-2021 07:21:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rajawal8/public_html/main/function.php on line 174
+[12-May-2021 07:21:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/rajawal8/public_html/main/function.php on line 176
+[12-May-2021 07:21:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rajawal8/public_html/main/function.php on line 189
+[12-May-2021 07:21:34 UTC] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, bool given in /home/rajawal8/public_html/main/function.php on line 191
+[12-May-2021 07:23:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'rajawal8_user'@'localhost' to database 'rajawal8_database' in /home/rajawal8/public_html/main/function.php on line 2
+[12-May-2021 07:23:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'rajawal8_user'@'localhost' to database 'rajawal8_database' in /home/rajawal8/public_html/main/function.php on line 2
+[12-May-2021 07:23:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rajawal8/public_html/main/function.php on line 167
+[12-May-2021 07:23:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/rajawal8/public_html/main/function.php on line 169
+[12-May-2021 07:23:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rajawal8/public_html/main/function.php on line 174
+[12-May-2021 07:23:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/rajawal8/public_html/main/function.php on line 176
+[12-May-2021 07:23:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rajawal8/public_html/main/function.php on line 189
+[12-May-2021 07:23:31 UTC] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, bool given in /home/rajawal8/public_html/main/function.php on line 191
+[12-May-2021 07:23:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rajawal8/public_html/main/function.php on line 167
+[12-May-2021 07:23:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/rajawal8/public_html/main/function.php on line 169
+[12-May-2021 07:23:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rajawal8/public_html/main/function.php on line 174
+[12-May-2021 07:23:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/rajawal8/public_html/main/function.php on line 176
+[12-May-2021 07:23:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rajawal8/public_html/main/function.php on line 189
+[12-May-2021 07:23:31 UTC] PHP Warning:  mysqli_affected_rows() expects parameter 1 to be mysqli, bool given in /home/rajawal8/public_html/main/function.php on line 191
+[12-May-2021 07:31:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/rajawal8/public_html/main/function.php on line 28
+[12-May-2021 07:31:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/rajawal8/public_html/main/function.php on line 28
+[12-May-2021 07:32:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/rajawal8/public_html/main/function.php on line 28
+[12-May-2021 08:05:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rajawal8/public_html/main/function.php on line 2
+[12-May-2021 08:05:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rajawal8/public_html/register.php on line 4
+[12-May-2021 08:07:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/rajawal8/public_html/main/function.php on line 2
+[12-May-2021 08:07:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rajawal8/public_html/register.php on line 4
+[12-May-2021 08:08:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/rajawal8/public_html/main/function.php on line 2
+[12-May-2021 08:08:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rajawal8/public_html/register.php on line 4
+[12-May-2021 08:12:16 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'rajawal8_user'@'localhost' (using password: YES) in /home/rajawal8/public_html/main/function.php on line 2
+[12-May-2021 08:12:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rajawal8/public_html/register.php on line 4
+[12-May-2021 10:23:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rajawal8/public_html/register.php on line 4
+[12-May-2021 10:26:23 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/rajawal8/public_html/main/function.php on line 154
+[12-May-2021 10:26:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/rajawal8/public_html/main/function.php on line 156
+[12-May-2021 10:26:23 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/rajawal8/public_html/main/function.php on line 161
+[12-May-2021 10:26:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/rajawal8/public_html/main/function.php on line 163
+[12-May-2021 10:26:23 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/rajawal8/public_html/main/function.php on line 176
+[12-May-2021 10:26:23 UTC] PHP Warning:  mysqli_affected_rows(): Couldn't fetch mysqli in /home/rajawal8/public_html/main/function.php on line 178
+[12-May-2021 10:26:23 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/rajawal8/public_html/main/function.php on line 154
+[12-May-2021 10:26:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/rajawal8/public_html/main/function.php on line 156
+[12-May-2021 10:26:23 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/rajawal8/public_html/main/function.php on line 161
+[12-May-2021 10:26:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/rajawal8/public_html/main/function.php on line 163
+[12-May-2021 10:26:23 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/rajawal8/public_html/main/function.php on line 176
+[12-May-2021 10:26:23 UTC] PHP Warning:  mysqli_affected_rows(): Couldn't fetch mysqli in /home/rajawal8/public_html/main/function.php on line 178
+[12-May-2021 10:27:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'rajawal'@'localhost' (using password: YES) in /home/rajawal8/public_html/main/function.php on line 2
+[12-May-2021 10:28:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/rajawal8/public_html/main/function.php on line 15
+[12-May-2021 10:32:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rajawal8/public_html/main/function.php on line 2
+[12-May-2021 10:32:04 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rajawal8/public_html/index.php on line 3
+[12-May-2021 10:32:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rajawal8/public_html/main/function.php:2) in /home/rajawal8/public_html/index.php on line 6
+[12-May-2021 10:33:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/rajawal8/public_html/main/function.php on line 15
+[14-May-2021 05:47:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/rajawal8/public_html/main/function.php on line 15
+[14-May-2021 06:12:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/rajawal8/public_html/main/function.php on line 158
+[14-May-2021 06:12:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/rajawal8/public_html/main/function.php on line 165
+[14-May-2021 06:20:55 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home/rajawal8/public_html/main/function.php:182
+Stack trace:
+#0 /home/rajawal8/public_html/register.php(12): registrasi(Array)
+#1 {main}
+  thrown in /home/rajawal8/public_html/main/function.php on line 182
+[14-May-2021 06:25:57 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home/rajawal8/public_html/main/function.php:157
+Stack trace:
+#0 /home/rajawal8/public_html/register.php(12): registrasi(Array)
+#1 {main}
+  thrown in /home/rajawal8/public_html/main/function.php on line 157
+[14-May-2021 06:27:32 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home/rajawal8/public_html/main/function.php:156
+Stack trace:
+#0 /home/rajawal8/public_html/register.php(12): registrasi(Array)
+#1 {main}
+  thrown in /home/rajawal8/public_html/main/function.php on line 156
+[14-May-2021 06:32:38 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home/rajawal8/public_html/main/function.php:159
+Stack trace:
+#0 /home/rajawal8/public_html/register.php(12): registrasi(Array)
+#1 {main}
+  thrown in /home/rajawal8/public_html/main/function.php on line 159
+[14-May-2021 06:39:21 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/rajawal8/public_html/main/function.php:156
+Stack trace:
+#0 /home/rajawal8/public_html/register.php(12): registrasi(Array)
+#1 {main}
+  thrown in /home/rajawal8/public_html/main/function.php on line 156
+[14-May-2021 07:08:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/rajawal8/public_html/main/function.php on line 17
+[14-May-2021 07:15:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/rajawal8/public_html/main/function.php on line 38
+[14-May-2021 07:19:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/rajawal8/public_html/main/function.php on line 38
+[14-May-2021 07:19:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/rajawal8/public_html/main/function.php on line 38
+[14-May-2021 07:19:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/rajawal8/public_html/main/function.php on line 38
+[14-May-2021 07:21:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/rajawal8/public_html/main/function.php on line 38
+[14-May-2021 07:24:46 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rajawal8/public_html/index.php on line 374
+[14-May-2021 07:25:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/rajawal8/public_html/main/function.php on line 38
