@@ -5,16 +5,13 @@ Welcome to my **Web Projects Repository**! This collection showcases a variety o
 ---
 
 ## 📚 Table of Contents  
-1. [Projects Overview](#projects-overview)  
+[Projects Overview](#projects-overview)  
    - [Keamanan Informasi - CryptMAIL](#1-keamanan-informasi---cryptmail)  
    - [Pemrograman Berbasis Objek - GO Web](#2-pemrograman-berbasis-objek---go-web)  
    - [Pemrograman Web - Input Information](#3-pemrograman-web---input-information)  
    - [Pemrograman Web - Zakatfitrah](#4-pemrograman-web---zakatfitrah)  
    - [Sistem Operasi - Wildlifecare Web](#5-sistem-operasi---wildlifecare-web)  
-   - [Tubes RPL - Medicine Web](#6-tubes-rpl---medicine-web)  
-2. [How to Run](#-how-to-run)  
-3. [Skills Highlighted](#-skills-highlighted)  
-4. [License](#-license)  
+   - [Tubes RPL - Medicine Web](#6-tubes-rpl---medicine-web)    
 
 ---
 ## 📋 Projects Overview  
