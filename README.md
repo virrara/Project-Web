@@ -1,6 +1,6 @@
 # 🌐 Web Projects Repository  
 
-Welcome to my **Web Projects Repository**! This collection showcases a variety of web-based applications I developed during my academic and professional journey. Each project reflects my skills in programming, web development, and secure information systems.  
+Welcome to my **Web Projects Repository**! This collection showcases a variety of web-based applications I developed during my academic journey. Each project reflects my skills in programming, web development, and secure information systems.  
 
 ---
 
