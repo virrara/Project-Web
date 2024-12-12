@@ -8,11 +8,7 @@
 ## 📚 Table of Contents  
 1. [Project Overview](#project-overview)  
 2. [Features](#features)  
-3. [Technology Stack](#technology-stack)  
-4. [Setup Instructions](#setup-instructions)  
-5. [How It Works](#how-it-works)  
-6. [Screenshots](#screenshots)  
-7. [Conclusion](#conclusion)  
+3. [Technology Stack](#technology-stack)    
 
 ---
 
