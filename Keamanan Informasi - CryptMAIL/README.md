@@ -1,9 +1,9 @@
 # ✉️ CryptMAIL: Secure Email System with AES-128 and RC4  
 
-<img width="960" alt="2022-05-30 (7)" src="https://github.com/user-attachments/assets/62653a3e-ce03-48d8-8b72-4aa3f07008cd" />
-
 **Tugas Akhir Keamanan Informasi**  
 📄 Published in [Jurnal Teknik Informatika dan Sistem Informasi](https://journal.maranatha.edu/index.php/jutisi/article/view/4962)  
+
+<img width="960" alt="2022-05-30 (7)" src="https://github.com/user-attachments/assets/62653a3e-ce03-48d8-8b72-4aa3f07008cd" />
 
 ---
 
